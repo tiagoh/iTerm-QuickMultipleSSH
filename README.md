@@ -1,6 +1,6 @@
-# iTerm iTermQuickMultipleSSH, Mac iTerm multiple servers ssh login
+# iTerm-QuickMultipleSSH, Mac iTerm multiple servers ssh login
 
-iTermQuickMultipleSSH consists in a applescript that allows to launch a single 
+iTerm-QuickMultipleSSH consists in a applescript that allows to launch a single 
 window of the great [iTerm.app] (http://www.iterm2.com) on your Mac OS X with multiple tabs 
 that automatically login via ssh on a list of servers previously selected.
 
@@ -13,7 +13,7 @@ line.
 Also having your [public keys authorized] (http://kimmo.suominen.com/docs/ssh/) on each server you want to connect would be really 
 helpful :P Otherwise you will have to introduce your password for each server on each tab... 
 
-Otherwise feel free to check the code and hack it!
+If you need more things, check the code and hack it!
 
 ## TODO 
 
